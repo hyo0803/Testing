@@ -45,5 +45,4 @@
 
 Итог
 100% покрытие - 10/10 тестов успешны
-![alt text](listing/test2.png)​
-
+![alt text](listing/test2.png)
